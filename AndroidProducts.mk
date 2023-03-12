@@ -16,12 +16,12 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/android_x86_64.mk \
-    $(LOCAL_DIR)/bliss_x86_64.mk
+    $(LOCAL_DIR)/lmodroid_x86_64.mk
 
 COMMON_LUNCH_CHOICES := \
     android_x86_64-eng \
     android_x86_64-user \
     android_x86_64-userdebug \
-    bliss_x86_64-eng \
-    bliss_x86_64-user \
-    bliss_x86_64-userdebug
+    lmodroid_x86_64-eng \
+    lmodroid_x86_64-user \
+    lmodroid_x86_64-userdebug
